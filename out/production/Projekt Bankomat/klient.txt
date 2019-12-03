@@ -1,0 +1,10 @@
+Krystian
+Barczak
+2000
+2137
+
+Legenda
+[0]Imie
+[1]Nazwisko
+[2]Stan Konta
+[3]Pin
